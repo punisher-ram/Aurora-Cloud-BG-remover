@@ -58,7 +58,6 @@ This version includes a **fixed and responsive UI layout**, ensuring stable alig
 🔧 Auto Dependency Installation
 - Automatically installs required Python packages on first run
 
----
 
 🛠️ Tech Stack
 
