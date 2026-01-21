@@ -1,10 +1,5 @@
-"""
-Aurora Cloud BG Remover - Professional Background Removal Tool
-By hash&ke
-
-Fixed alignment version: Responsive to Maximize/Minimize.
-Auto-installs all requirements automatically.
-"""
+#Aurora Cloud BG Remover - Professional Background Removal Tool
+#By hash&ke
 
 import subprocess
 import sys
@@ -839,4 +834,5 @@ if __name__ == "__main__":
 
     root = tk.Tk()
     app = AuroraCloudBGRemover(root)
+
     root.mainloop()
